@@ -77,7 +77,7 @@ If the user enters an invalid game mode, an exception is thrown and handled grac
 - Player vs Player mode
 - Player vs Computer mode
 - Board printing using operator overloading
-- Simple AI logic for computer player
+- Simple logic for computer player
 - Input validation using exception handling
 
 ---
